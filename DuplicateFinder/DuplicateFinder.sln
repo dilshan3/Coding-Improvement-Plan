@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateFinder", "DuplicateFinder\DuplicateFinder.csproj", "{40DE76E0-A8DF-439A-B80A-51B6DCD15565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateFinderTests", "DuplicateFinderTests\DuplicateFinderTests.csproj", "{EC3EE680-490D-4FC6-A415-05F5D178C49E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40DE76E0-A8DF-439A-B80A-51B6DCD15565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40DE76E0-A8DF-439A-B80A-51B6DCD15565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40DE76E0-A8DF-439A-B80A-51B6DCD15565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40DE76E0-A8DF-439A-B80A-51B6DCD15565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC3EE680-490D-4FC6-A415-05F5D178C49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3EE680-490D-4FC6-A415-05F5D178C49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3EE680-490D-4FC6-A415-05F5D178C49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3EE680-490D-4FC6-A415-05F5D178C49E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A96657D-A1DD-4D7F-9B6C-6A54D9FC6A8C}
+	EndGlobalSection
+EndGlobal
